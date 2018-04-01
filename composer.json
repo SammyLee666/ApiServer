@@ -1,0 +1,13 @@
+{
+    "name": "sammy/specification",
+    "description": "Api Server",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Specification\\ApiServer\\": "src/"
+        }
+    }
+}
